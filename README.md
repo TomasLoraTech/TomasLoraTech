@@ -1,7 +1,7 @@
 # Salut, moi c'est Tomas 👋
 
 **Développeur full-stack · Web, serveurs, bases de données & domotique**
-📍 Vergigny (Yonne) · 🌐 [tomaslora.tech](https://tomaslora.tech) · ✉️ [contact@tomaslora.tech](mailto:contact@tomaslora.tech)
+📍 Vergigny (Yonne) · 🌐 [tomaslora.tech](https://tomaslora.tech) · 👤 [Mon profil complet](https://profil.tomaslora.tech) · ✉️ [contact@tomaslora.tech](mailto:contact@tomaslora.tech)
 
 Passionné de développement depuis **environ 15 ans**, j'ai tout appris **en autodidacte**, en construisant mes propres outils. Au travail, sans être développeur dans mon poste, j'ai créé les applications que mes collègues utilisent chaque jour. Depuis le 1er octobre 2026, je développe pour les autres avec ma propre entreprise, **Tomaslora Tech**.
 
@@ -38,5 +38,7 @@ Passionné de développement depuis **environ 15 ans**, j'ai tout appris **en au
 🏍️ Moto · 🚐 Camping-car & van · 📷 Photographie · 🏠 Domotique
 
 ---
+
+📄 Compétences, projets et parcours en détail : **[profil.tomaslora.tech](https://profil.tomaslora.tech)** ([code de la page](https://github.com/tomasloratech/profil))
 
 📫 Un projet ou un poste ? Écris-moi à **[contact@tomaslora.tech](mailto:contact@tomaslora.tech)**.
